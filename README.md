@@ -13,6 +13,8 @@
 4. Run the build.sh script.
 ```
 git clone https://github.com/siliconarts/raycore1000.git
+sudo apt update
+sudo apt install libx11-dev
 mkdir ./app/lib/linux_x64
 sh build.sh
 ```
