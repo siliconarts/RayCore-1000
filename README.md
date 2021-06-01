@@ -37,7 +37,7 @@ sh build.sh
 	cd bin
 	./rc_sceneplayer ./sceneplayer/basic/bedchair/ 800 480
 	```
-4. If you want to create your own samples, you can refer to other documents in the "doc" directory.
+4. If you want to create your own samples, you can refer to other documents in the "doc" directory for more details.
 
 ## License
 See [License](License)
