@@ -1,0 +1,1 @@
+LicenseGen.exe test

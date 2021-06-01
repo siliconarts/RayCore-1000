@@ -1,0 +1,55 @@
+############################################################
+# List of all materials in each demo #
+############################################################
+
+# For an application of the graphic effect
+
+  <RC1_GraphicEffect_Gloss> (Execute File : rc_gloss)
+    1 : Sphere
+
+  <RC1_GraphicEffect_Cup> (Execute File : rc_cup)
+    1 : Cup
+    2 : Mirror
+
+  <RC1_GraphicEffect_BilliardBall> (Execute File : rc_billiardball)
+    1 : Ball
+
+  <RC1_GraphicEffect_Watch> (Execute File : rc_watch)
+    1 : Cover Glass
+    2 : Date Glass
+    3 : Table
+
+  <RC1_GraphicEffect_WaterWave> (Execute File : rc_waterwave)
+    1 : Sail
+    2 : Water Wave
+
+  <RC1_GraphicEffect_Vegetable> (Execute File : rc_vegetable)
+    1 : Orange Persimmon
+    2 : Red Persimmon
+    3 : Red Cherry
+    4 : Green Vegetable
+    5 : Table
+
+############################################################
+# Key events #
+############################################################
+
+# General Operation  
+  
+  . I         : Reset all configuration
+  . O, L      : Toggle the light in order
+  . S         : Toggle the shadow effect
+  . X         : Toggle the usage of a texture's LOD
+  . +, -      : Increase and decrease the value of a depth bounce in range [0~14], respectively.
+  . Q, W      : Increase and decrease the threshold level of a ray bounce in ragne [None, 0~8], respectively.
+  . Up, down arrow : Increase and decrease the rendering quality in a general, fast, nice and fast-nice case, respectively. 
+  . Left, right arrow: Increase and decrease the frame speed by a frame's skip in ragne [1, 2, 4, 8, 16], respectively.
+
+
+# Material Operation
+
+  . 0~9       : Select the material you want to change its properties
+  . M         : Reset the properties of all materials
+  . R, F      : Increase and decrease the selected material's reflectance, respectively.
+  . T, G      : Increase and decrease the selected material's transmittance, respectively.
+  . Y, H      : Increase and decrease the selected material's refraction index, respectively.
