@@ -1,6 +1,5 @@
 ## Introduction
 - ...
-- There are two branches named main and RCMC for a RC1000 version and a RCMC version, respectively.
 
 ## Requirement
 - OS: Ubuntu 18.04.5
@@ -13,7 +12,7 @@
 3. Make a directory named linux_x64 in the app/lib directory
 4. Run the build.sh script.
 ```
-git clone https://github.com/stevensiliconarts/Demos.git
+git clone https://github.com/siliconarts/raycore1000.git
 mkdir ./app/lib/linux_x64
 sh build.sh
 ```
