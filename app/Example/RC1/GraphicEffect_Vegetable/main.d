@@ -1,5 +1,5 @@
-/home/sa/GitHub/Git_Test/0531/app/Example/RC1/GraphicEffect_Vegetable/main.o: \
- /home/sa/GitHub/Git_Test/0531/app/Example/RC1/GraphicEffect_Vegetable/main.cpp \
+/home/sa/GitHub/RC1000API_GIT_v210531/app/Example/RC1/GraphicEffect_Vegetable/main.o: \
+ /home/sa/GitHub/RC1000API_GIT_v210531/app/Example/RC1/GraphicEffect_Vegetable/main.cpp \
  /usr/include/stdc-predef.h ../RCFramework/src/RCFramework.h \
  /usr/include/c++/8/stdlib.h /usr/include/c++/8/cstdlib \
  /usr/include/x86_64-linux-gnu/c++/8/bits/c++config.h \
@@ -76,5 +76,5 @@
  /usr/include/X11/Xosdefs.h /usr/include/X11/Xutil.h \
  /usr/include/X11/keysym.h /usr/include/X11/keysymdef.h \
  /usr/include/X11/Xatom.h /usr/include/x86_64-linux-gnu/sys/time.h \
- /home/sa/GitHub/Git_Test/0531/app/Example/RC1/GraphicEffect_Vegetable/../common/SceneData.h \
+ /home/sa/GitHub/RC1000API_GIT_v210531/app/Example/RC1/GraphicEffect_Vegetable/../common/SceneData.h \
  /usr/include/memory.h

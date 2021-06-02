@@ -1,5 +1,5 @@
-/home/sa/GitHub/Git_Test/0531/app/Example/RC1/GraphicEffect_Cup/../common/SceneData.o: \
- /home/sa/GitHub/Git_Test/0531/app/Example/RC1/GraphicEffect_Cup/../common/SceneData.cpp \
+/home/sa/GitHub/RC1000API_GIT_v210531/app/Example/RC1/GraphicEffect_Cup/../common/SceneData.o: \
+ /home/sa/GitHub/RC1000API_GIT_v210531/app/Example/RC1/GraphicEffect_Cup/../common/SceneData.cpp \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -68,7 +68,7 @@
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
  /usr/include/x86_64-linux-gnu/bits/mathinline.h \
- /home/sa/GitHub/Git_Test/0531/app/Example/RC1/GraphicEffect_Cup/../common/SceneData.h \
+ /home/sa/GitHub/RC1000API_GIT_v210531/app/Example/RC1/GraphicEffect_Cup/../common/SceneData.h \
  /usr/include/memory.h /usr/include/string.h /usr/include/strings.h \
  /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
  /usr/include/x86_64-linux-gnu/bits/string_fortified.h \

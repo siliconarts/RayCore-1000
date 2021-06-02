@@ -1,5 +1,5 @@
 ## Introduction
-- ...
+- 
 
 ## Requirement
 - OS: Ubuntu 18.04.5
@@ -13,8 +13,6 @@
 4. Run the build.sh script.
 ```
 git clone https://github.com/siliconarts/raycore1000.git
-sudo apt update
-sudo apt install libx11-dev
 mkdir ./app/lib/linux_x64
 sh build.sh
 ```
@@ -38,7 +36,7 @@ sh build.sh
 	cd bin
 	./rc_sceneplayer ./sceneplayer/basic/bedchair/ 800 480
 	```
-4. If you want to create your own samples, you can refer to other documents in the "doc" directory for more details.
+4. If you want to create your own samples, you can refer to other documents in the "doc" directory.
 
 ## License
 See [License](License)

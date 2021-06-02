@@ -1,5 +1,5 @@
-/home/sa/GitHub/Git_Test/0531/app/Example/RC1/AlphaTexCube/main.o: \
- /home/sa/GitHub/Git_Test/0531/app/Example/RC1/AlphaTexCube/main.cpp \
+/home/sa/GitHub/RC1000API_GIT_v210531/app/Example/RC1/AlphaTexCube/main.o: \
+ /home/sa/GitHub/RC1000API_GIT_v210531/app/Example/RC1/AlphaTexCube/main.cpp \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \
@@ -76,4 +76,4 @@
  /usr/include/X11/Xosdefs.h /usr/include/X11/Xutil.h \
  /usr/include/X11/keysym.h /usr/include/X11/keysymdef.h \
  /usr/include/X11/Xatom.h /usr/include/x86_64-linux-gnu/sys/time.h \
- /home/sa/GitHub/Git_Test/0531/app/Example/RC1/AlphaTexCube/../common/DIBImage.h
+ /home/sa/GitHub/RC1000API_GIT_v210531/app/Example/RC1/AlphaTexCube/../common/DIBImage.h

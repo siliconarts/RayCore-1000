@@ -1,5 +1,5 @@
-/home/sa/GitHub/Git_Test/0531/app/Example/RC1/Guide_LookAt/main.o: \
- /home/sa/GitHub/Git_Test/0531/app/Example/RC1/Guide_LookAt/main.cpp \
+/home/sa/GitHub/RC1000API_GIT_v210531/app/Example/RC1/Guide_LookAt/main.o: \
+ /home/sa/GitHub/RC1000API_GIT_v210531/app/Example/RC1/Guide_LookAt/main.cpp \
  /usr/include/stdc-predef.h ../RCFramework/src/RCFramework.h \
  /usr/include/c++/8/stdlib.h /usr/include/c++/8/cstdlib \
  /usr/include/x86_64-linux-gnu/c++/8/bits/c++config.h \
