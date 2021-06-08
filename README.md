@@ -4,7 +4,7 @@ This state-of-the-art GPU IP provides reality-like 3D graphics by fully supporti
 As an Intel Gold partner, we provide you with a ray tracing GPU solution that has RayCore 1000 integrated into Intel Arria 5 FPGA. 
 
 ![Lake](./image/lake.png)
-
+Lake: rendered image from RayCore Series 1000 
 
 
 ## Requirement
