@@ -3,7 +3,7 @@ RayCore Series 1000 is an ideal real-time ray-tracing GPU IP for mobile and embe
 This state-of-the-art GPU IP provides reality-like 3D graphics by fully supporting natural light effects such as reflection, refraction, transmission, and various types of shadow.
 As an Intel Gold partner, we provide you with a ray tracing GPU solution that has RayCore 1000 integrated into Intel Arria 5 FPGA. 
 
-![Stormtrooper](./image.png)
+![Stormtrooper](./image_abc.png)
 
 ## Requirement
 - OS: Ubuntu 18.04.5
