@@ -10,7 +10,7 @@ Water Wave: Image rendered by RayCore 1000
 ## Requirement
 - OS: Ubuntu 18.04.5
 - Compiler: GCC 8.4.0
-- Hardware device: Alcointera - Arria V GX Starter Kit or  Altera - Stratix V GX FPGA Development Kit
+- Hardware device: Altera - Arria V GX Starter Kit or  Altera - Stratix V GX FPGA Development Kit
 
 ## Build
 1. Clone the repository.
