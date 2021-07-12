@@ -27,7 +27,7 @@ sh build.sh
 1. Follow the instruction in the "RayCore® 1000 Dev Kit Quick Start Guide.pdf" file in the "doc" directory to set up the FPGA hardware.
 2. Download [scene.zip](https://drive.google.com/file/d/1JEegzHSKsFu4QYNlTnQFkOTu4gQj_xnE/view?usp=sharing), and uncompress the zip file to the "bin" directory.
 3. Run demos
-	- You can change materials' properties in some demos. For example in the "GraphicEffect_Cup" demo, you can press "1" key to select the cup material, and then control its transparency, reflectance or refraction using T, G, R, and F keys. Please, refer to the "Key_event_and_materials.txt" in the "doc" directory for more details.
+	- You can change materials' properties in some demos. For example in the "GraphicEffect_Cup" demo, you can press "1" key to select the cup material, and then control its transparency, reflectance or refraction using T, G, R, and F keys. Please, refer to the "RayCore® 1000 API Key_event_and_materials.pdf" in the "doc" directory for more details.
 	
 	```
 	# At the root of the repository
